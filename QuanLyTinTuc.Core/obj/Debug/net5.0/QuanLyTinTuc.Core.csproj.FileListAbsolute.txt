@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Core\obj\Debug\net5.0\QuanLyTinTuc.Core.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Core\obj\Debug\net5.0\QuanLyTinTuc.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Core\obj\Debug\net5.0\QuanLyTinTuc.Core.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Core\obj\Debug\net5.0\QuanLyTinTuc.Core.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Core\obj\Debug\net5.0\QuanLyTinTuc.Core.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Core\bin\Debug\net5.0\QuanLyTinTuc.Core.deps.json
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Core\bin\Debug\net5.0\QuanLyTinTuc.Core.runtimeconfig.json
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Core\bin\Debug\net5.0\QuanLyTinTuc.Core.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Core\bin\Debug\net5.0\QuanLyTinTuc.Core.dll
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Core\bin\Debug\net5.0\ref\QuanLyTinTuc.Core.dll
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Core\bin\Debug\net5.0\QuanLyTinTuc.Core.pdb
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Core\obj\Debug\net5.0\QuanLyTinTuc.Core.dll
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Core\obj\Debug\net5.0\ref\QuanLyTinTuc.Core.dll
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Core\obj\Debug\net5.0\QuanLyTinTuc.Core.pdb
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Core\obj\Debug\net5.0\QuanLyTinTuc.Core.genruntimeconfig.cache

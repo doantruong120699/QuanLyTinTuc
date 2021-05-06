@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Services\bin\Debug\net5.0\QuanLyTinTuc.Services.deps.json
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Services\bin\Debug\net5.0\QuanLyTinTuc.Services.dll
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Services\bin\Debug\net5.0\ref\QuanLyTinTuc.Services.dll
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Services\bin\Debug\net5.0\QuanLyTinTuc.Services.pdb
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Services\bin\Debug\net5.0\QuanLyTinTuc.Core.dll
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Services\bin\Debug\net5.0\QuanLyTinTuc.Core.pdb
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Services\obj\Debug\net5.0\QuanLyTinTuc.Services.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Services\obj\Debug\net5.0\QuanLyTinTuc.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Services\obj\Debug\net5.0\QuanLyTinTuc.Services.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Services\obj\Debug\net5.0\QuanLyTinTuc.Services.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Services\obj\Debug\net5.0\QuanLyTinTuc.Services.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Services\obj\Debug\net5.0\QuanLyTinTuc.Services.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Services\obj\Debug\net5.0\QuanLyTinTuc.Services.dll
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Services\obj\Debug\net5.0\ref\QuanLyTinTuc.Services.dll
+C:\Users\ADMIN\Desktop\school\8-semeter\KienTrucHuongDichVu\MidTerm\quanlytintuc\server\QuanLyTinTuc.Services\obj\Debug\net5.0\QuanLyTinTuc.Services.pdb
